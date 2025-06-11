@@ -1,0 +1,3 @@
+[submodule "simulator/bluesky"]
+	path = simulator/bluesky
+	url = https://github.com/ProfHoekstra/bluesky.git
