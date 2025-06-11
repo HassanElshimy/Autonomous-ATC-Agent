@@ -19,9 +19,6 @@ My interest lies in applying advanced AI techniques to critical real-world syste
 ## Installation & Setup (Under Development)
 Detailed instructions for setting up the simulation environment will be provided here as the project progresses.
 
-## Project Roadmap
-You can find the detailed project roadmap in [ROADMAP.md](ROADMAP.md).
-
 ---
 
 ## Follow My Journey
